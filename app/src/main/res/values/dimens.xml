@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">70dp</dimen>
+    <dimen name="list_phonename_height">35dp</dimen>
+    <dimen name="list_phonenum_height">35dp</dimen>
+    <dimen name="btn_call_width">60dp</dimen>
+</resources>
